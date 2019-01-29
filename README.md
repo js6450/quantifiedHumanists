@@ -1,2 +1,3 @@
-# quantifiedHumanists
-Repo for Quantified Humanists class, Spring 2019
+# Quantified Humanists
+
+Repository for Quantified Humanists course, Spring 2019
