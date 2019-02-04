@@ -7,10 +7,13 @@
 * Status: Requested & Downloaded
 
 ## iMessage
-* Status: Collected & Downloaded
-
-## Web browser history
-
+* Status: Downloaded
 
 ## Amazon
 * Status: Requested & Downloaded
+
+## Reporter
+* Status: Downloaded
+
+## Chrome
+* Status: Requested
