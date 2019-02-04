@@ -1,17 +1,16 @@
 # Data Double
 
 ## Facebook
-* Requested: Y
-* Downloaded: N
+* Status: Requested & Downloaded
 
 ## Instagram
+* Status: Requested & Downloaded
 
 ## iMessage
+* Status: Collected & Downloaded
 
 ## Web browser history
 
-## LinkedIn
 
 ## Amazon
-* Requested: Y
-* Downloaded: Y
+* Status: Requested & Downloaded
