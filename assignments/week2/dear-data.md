@@ -8,6 +8,14 @@ I've collected the data using the Notes iOS app and its the table drawing tool.
 
 ## Raw Data
 
+There are two sorts of seating arrangements that are found typically on the MTA subway. One type of seating arrangements are two L shaped seats facing each other with 3 seats along the car walls / windows and 2 seats perpendicularly situated next to the row of 3-seater (Type 1). The other type of seating arrangement has rows of seats along thecar walls / windows that usually seats 3 people between vertical metal bars (Type 2).
+
+With the different seating arrangement in mind, I've categorized these seats as below: 
+* My Row: The row of seats that I'm also seating on.
+* Row Adjacent: The row of two seats perpendicularly next to my row of seats. When written *none* in the entry, it indicates that I was sitting / standing in a car that had the "Type 2" seating arrangement as described above.
+* Row Across: The row of three seats directly across from my row of seats.
+* Row Diagonal: The row of two seats perpendicularly next to row across. When written *none* in the entry, it indicates that I was sitting / standing in a car that had the "Type 2" seating arrangement as described above.
+
 ### Tuesday
 11:43am, Prospect Avenue, 7 minute waiting time
 
@@ -116,7 +124,7 @@ Me 0 0 | 0 0 | m 0 0 | w 0
 M Me 0 | w m | w 0 w | 0 0 
 M Me 0 | w m | w 0 w | 0 0 
 M Me 0 | 0 w | w 0 w | 0 0 
-W m Me | w 0 0
+W m Me | none | w 0 0 | none
 
 7:32pm, 8th Street NYU, 0 minute waiting time
 
@@ -154,7 +162,7 @@ Me w w | 0 w | w w w | m m
 
 | My Row  | Row Adjacent | Row Across | Row Diagonal |
 | :-----: | :----------: | :--------: | :----------: |
-M m w | m w w
+M m w | none | m w w | none
 Me w m | 0 m | w 0 w | w m
 Me w m | 0 m | w 0 m | m 0
 Me w m | m 0 | w 0 m | m 0
