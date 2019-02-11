@@ -166,3 +166,12 @@ M m w | none | m w w | none
 Me w m | 0 m | w 0 w | w m
 Me w m | 0 m | w 0 m | m 0
 Me w m | m 0 | w 0 m | m 0
+
+## Result
+
+
+
+## Reflection
+Before starting to collect data on Tuesday, I thought carefully about the tool that I was going to use to collect my data. I thought about using pen and paper, but I quickly decided against it as I often find it quite difficult to pull out pen and paper in the subway, especially to write. Given the nature of the data I wanted to collect, I thought all I needed was the Notes application, which I use quite frequently to do quick note taking when I am on the move. 
+
+I found myself quite "on alert" the past week in the subway because I would usually try to make use of my time during my commute, usually reading and listening to music. Because I had to keep track of the changing scene around me, I couldn't really do any activities that involved keeping my eyes focused on one particular place.
