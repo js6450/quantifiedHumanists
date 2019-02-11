@@ -1,4 +1,4 @@
-# Dear Data
+# Assignment `02`: [Dear Data](https://github.com/joeyklee/quant-humanists-2019/blob/master/WEEK_02.md#assignment-2-due-week-03-11-feb-2019-dear-data) 
 
 This week, [Jaekook](https://github.com/kook101) and I decided to do a Dear Data week on the theme of "Commute". We allowed ourselves to interpret the theme on our own and I decided to take note of the seating arrangements of the rows of seats around me. Because I often ride the R line of subway, I usually find myself seated and I thought it would be interesting to see what comes out of taking note of who is sitting around me.
 
