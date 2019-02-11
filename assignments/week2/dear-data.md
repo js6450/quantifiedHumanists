@@ -177,4 +177,6 @@ Before starting to collect data on Tuesday, I thought carefully about the tool t
 
 I found myself quite "on alert" the past week in the subway because I would usually try to make use of my time during my commute, usually reading and listening to music. Because I had to keep track of the changing scene around me, I couldn't really do any activities that involved keeping my eyes focused on one particular place.
 
+The exercise of “taking attendance” of the people that sat around my fixed vicinity in the subway car everyday developed into a secret personal game in the end. The first day that I rode the subway without the necessity to collect data for this assignment, I still found myself playing the game, which gave my “usual” commute a new perspective.
+
 While drawing the visualization of the data I collected, despite having practiced multiple times, it was not possible to avoid mistakes (I did make a lot of mistakes). I decided to tell myself that it was part of the process and that I should let the mistakes be part of the overall work.
