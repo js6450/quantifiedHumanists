@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JSHintConfiguration" version="2.9.5" use-config-file="true" use-custom-config-file="true" custom-config-file-path="$PROJECT_DIR$/data/facebook/photos_and_videos/videos/13698592_1213657598658644_1625368969_n_10208969783954166.mp4">
+    <option bitwise="true" />
+    <option browser="true" />
+    <option curly="true" />
+    <option eqeqeq="true" />
+    <option forin="true" />
+    <option maxerr="50" />
+    <option noarg="true" />
+    <option noempty="true" />
+    <option nonew="true" />
+    <option strict="true" />
+    <option undef="true" />
+  </component>
+</project>
