@@ -29,18 +29,21 @@ For the final output of the digital painting, below is a moodboard of the visual
 
 ## Hypothesis / Definition of questions:
 
-* Are there similiarities in images 
+* Is there a recognizable pattern of images in relation to their emotion words? Are their similarities in images that I label as "happy" and what are the differences in images that I consider "happy" from those that I label "sad"?
 
 ## Goals:
 
-I am hoping to 
+The feelings that we associate with images are subjective. As my quick research on image sentiment analysis shows, there are efforts in predicting the emotions people associate with a given image. I think this speaks to the argument that Gina Neff and Dawn Nafus makes in their book *Self-Traking* about the technologies defining what "normal" is. I would like to express my thoughts about the over-generalization of machine learning algorithms in defining what we are should feel when looking at an image as well as explore what my "normal" associations of image to sentiment are.
+
+By taking a step further and creating a digial painting using the image and word inputs, I am hoping to clarify specific characteristics and trends through abstraction of high fidelity images to simple "brush strokes".
 
 ## Sketches / Technical Considerations:
 
-* Basic Shortcuts app that uploads an image and its emotion word.
+For this project, below are list of technical components that I am planning to create:
+* Basic Shortcuts app that uploads an image and its feeling word.
 * Database that stores all the images and the associated keywords.
 * Server that extracts aspects of the images that will be used to create the digital painting of emotions.
-* 
+* Web view of the digital painting that builds up over time with more input.
 
 ## Presentation of Proposal:
 
