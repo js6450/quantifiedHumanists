@@ -13,7 +13,7 @@ With the data that I submit, I would like to create a digital painting that repr
 ![Image of google image search of emotion words](img/emotion-image-search.jpg)
 * Google search of words "sad", "happy", "lonely" and "excited" shows similarities in images that are associated with the words.
 
-* I searched with the term "image sentiment analysis", as this is what I am trying to do manually by labelling the images that I record with an emotion word. The search result included papers (Emotion Detection and Sentiment Analysis of Images](https://www.cc.gatech.edu/~hays/7476/projects/Aditi_Vasavi.pdf), Vasavi Gajarla and Aditi Gupta and [From Pixels to Sentiment](https://github.com/imatge-upc/sentiment-2017-imavis)) and code that talk about sentiment analysis on images using machine learning and Convolutional Neural Networks.
+* I searched with the term "image sentiment analysis", as this is what I am trying to do manually by labelling the images that I record with an emotion word. The search result included papers ([Emotion Detection and Sentiment Analysis of Images](https://www.cc.gatech.edu/~hays/7476/projects/Aditi_Vasavi.pdf), Vasavi Gajarla and Aditi Gupta and [From Pixels to Sentiment](https://github.com/imatge-upc/sentiment-2017-imavis)) and code that talk about sentiment analysis on images using machine learning and Convolutional Neural Networks.
 
 * It also returns results of cloud based machine learning APIs such as [Google Cloud Vision](https://cloud.google.com/vision/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/) that analyse images to extract its components. After trying out the Google Cloud Vision, the two useful things that I may consider using for my project are the image labels and dominant colors in the images.
 
