@@ -14,4 +14,14 @@ I went with the later option, because I wanted to create some sort of digital ve
 
 ![Gif of running shortcuts app](img/shortcuts-app.gif)
 
-I added the mini app that I created in Shortcuts on my home screen and by clicking on the app logo, it automatically selects a random photo from my photo gallery on my phone and sends the data to a server on Heroku. I used Joey's [very basic express auth example](https://github.com/joeyklee/very-basic-express-auth-example/tree/with-mongodb) as skeleton code for my web app and added more code to accomodate for the images. I struggled a little at the beginning because I had anticipated the image data to be recieved as Buffer data, but after a while I realized that the base64 encoding can just be saved as String data to be used as source for image tags in html.
+I added the mini app that I created in Shortcuts on my home screen and by clicking on the app logo, it automatically selects a random photo from my photo gallery on my phone and sends the data to a server on Heroku. I used Joey's [very basic express auth example](https://github.com/joeyklee/very-basic-express-auth-example/tree/with-mongodb) using MongoDB as skeleton code for my web app and added more code to accomodate for the images. I struggled a little at the beginning because I had anticipated the image data to be recieved as Buffer data, but after a while I realized that the base64 encoding can just be saved as String data to be used as source for image tags in html.
+
+![Gif of scroll view of webpage](img/webpage-scroll.gif)
+
+I made the webpage style to mimic photo diaries, with photos grouped per day and scrolling horizontally.
+
+## For Future
+
+I would like to figure out a way of completely automating this process. Could I set a timer for the app to run at a specific time every day? I added the Siri shortcut to the app, but for some reason, I have not been able to actually run it via Siri. 
+
+I would also like to add more data to send to server, to try to capture as much of the data I am generating every day on my phone.
