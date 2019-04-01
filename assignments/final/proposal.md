@@ -1,4 +1,4 @@
-# What Does My Emotion Look Like?
+# What Do My Feelings Look Like?
 
 For my final project, I am planning on recording my emotions through images. Images that I capture embody emotions, either the feelings that prompted me to capture the moment or what I feel when looking at the image itself. I would like to keep track of my feelings by representing them as images. 
 
@@ -13,11 +13,9 @@ I searched with the term "image sentiment analysis", as this is what I am basica
 * [Emotion Detection and Sentiment Analysis of Images](https://www.cc.gatech.edu/~hays/7476/projects/Aditi_Vasavi.pdf), Vasavi Gajarla and Aditi Gupta
 * [Google Cloud Vision](https://cloud.google.com/vision/)
 
-
 ## Moodboard:
 
 ![Image of moodboard for emotion painting](img/moodboard.jpg)
-
 
 ## Hypothesis / Definition of questions:
 
@@ -25,7 +23,15 @@ I searched with the term "image sentiment analysis", as this is what I am basica
 
 ## Goals:
 
+I am hoping to 
+
 ## Sketches / Technical Considerations:
+
+* Basic Shortcuts app that uploads an image and its emotion word.
+* Database that stores all the images and the associated keywords.
+* Server that extracts aspects of the images that will be used to create the digital painting of emotions.
+* 
 
 ## Presentation of Proposal:
 
+[Link to Google Slides](https://docs.google.com/presentation/d/1bPqzZvrEv2kw7KjkittPcHzug24fkzms-DPqMVXX1lw/edit?usp=sharing)
