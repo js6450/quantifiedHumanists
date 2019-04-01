@@ -8,7 +8,13 @@ Creating a new image of emotions.
 
 * Moodboard:
 
+![Image of moodboard for emotion painting](img/moodboard.jpg)
+
+
 * Hypothesis / Definition of questions:
+
+![Image of images matched with emotion words](img/image-emotions.jpg)
+
 
 * Goals:
 
