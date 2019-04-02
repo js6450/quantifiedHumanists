@@ -39,6 +39,8 @@ By taking a step further and creating a digial painting using the image and word
 
 ## Sketches / Technical Considerations:
 
+![Image of workflow](img/workflow.jpeg)
+
 For this project, below are list of technical components that I am planning to create:
 * Basic Shortcuts app that uploads an image and its feeling word.
 * Database that stores all the images and the associated keywords.
