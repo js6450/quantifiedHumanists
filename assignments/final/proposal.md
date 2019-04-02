@@ -47,6 +47,8 @@ For this project, below are list of technical components that I am planning to c
 * Server that extracts aspects of the images that will be used to create the digital painting of emotions.
 * Web view of the digital painting that builds up over time with more input.
 
++ Bonus: Train [image classifier](https://www.tensorflow.org/hub/tutorials/image_retraining) with image - label datasets.
+
 ## Presentation of Proposal:
 
 [Link to Google Slides](https://docs.google.com/presentation/d/1bPqzZvrEv2kw7KjkittPcHzug24fkzms-DPqMVXX1lw/edit?usp=sharing)
