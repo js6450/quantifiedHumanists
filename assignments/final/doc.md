@@ -18,6 +18,10 @@ The painting view only shows the view of the painting, without the photo and tex
 
 ![image of emotional painting workflow](img/workflow.jpeg)
 
+I had originally created a diagram of the workflow of the project for my proposal, and I've managed to stick to the original plans of creating a shortcuts app for submitting photo & caption to the server.
+
 ![image of shortcuts app view](img/shortcuts-view.jpg)
+
+The server uploads the photo to the Amazon S3 storage service, then stores the link of the image, caption sentence, its text sentiment score, and dominant colors of the image to the mongoDB database entry.
 
 ![image of brush stroke legend](img/brush-legand.jpg)
