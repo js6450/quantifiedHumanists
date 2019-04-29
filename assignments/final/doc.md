@@ -18,6 +18,8 @@ The painting view only shows the view of the painting, without the photo and tex
 
 ![image of emotional painting workflow](img/workflow.jpeg)
 
+** Submitting the Data
+
 I had originally created a diagram of the workflow of the project for my proposal, and I've managed to stick to the original plans of creating a shortcuts app for submitting photo & caption to the server.
 
 ![image of shortcuts app view](img/shortcuts-view-updated.jpg)
@@ -26,7 +28,20 @@ The technical challenge that I set for myself for this assignment is to use Amaz
 
 ![image of shortcuts app functions](img/shortcuts-functions.jpg)
 
-The server uploads the photo to the Amazon S3 storage service, then stores the link of the image, caption sentence, its text sentiment score, and dominant colors of the image to the mongoDB database entry.
+Before the post request, I had to do some preprocessing in the shortcuts app to reformat the images and text. I cropped the images to 320px width and 240px height and converted them to png files. This was because for some of the images that I had on my phone, for some reason, I got errors saying that their data types were video/mp4, which makes me think that those images might have been live images, instead of pure images. For the text caption input, I replaced spaces with "-" dash characters to make the string url friendly query strings.
+
+** Analysing the Data
+
+When I received the image and caption in the post request, I used the [Sentiment](https://www.npmjs.com/package/sentiment) npm module to run text analysis on the sentence, which gave me a score between -5 and 5, where -5 was very negative sentiment, 0 was neutral and 5 was very positive sentiment. I used [Splashy](https://www.npmjs.com/package/splashy) npm module to extract dominant colors of the image. This module was the one that I could find that took image urls instead of files to do color extraction. The return values of colors were in arrays of hexadecimal color values.
+
+After using these tools for analysis, I stored the following data in my MongoDB data table:
+* Date
+* Link to image stored in Amazon S3
+* Caption text
+* Caption text sentiment score
+* Dominant colors
+
+** Rendering Webpage & Painting
 
 ![image of brush stroke legend](img/brush-legand.jpg)
 
