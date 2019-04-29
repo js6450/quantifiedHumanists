@@ -20,9 +20,11 @@ The painting view only shows the view of the painting, without the photo and tex
 
 I had originally created a diagram of the workflow of the project for my proposal, and I've managed to stick to the original plans of creating a shortcuts app for submitting photo & caption to the server.
 
-![image of shortcuts app view](img/shortcuts-view.jpg)
+![image of shortcuts app view](img/shortcuts-view-updated.jpg)
 
 The technical challenge that I set for myself for this assignment is to use Amazon S3 storage service to store all my images instead of base64 strings as I had previously done either in MongoDB or NeDB. I used [Multer](https://github.com/expressjs/multer) to connect to the S3 bucket that I made for this project for a single image upload. I had some difficulty with combining the api post request for both image file and text at the same time so I decided to pass on the text input for my image captions as a query string.
+
+![image of shortcuts app functions](img/shortcuts-functions.jpg)
 
 The server uploads the photo to the Amazon S3 storage service, then stores the link of the image, caption sentence, its text sentiment score, and dominant colors of the image to the mongoDB database entry.
 
