@@ -25,3 +25,7 @@ I had originally created a diagram of the workflow of the project for my proposa
 The server uploads the photo to the Amazon S3 storage service, then stores the link of the image, caption sentence, its text sentiment score, and dominant colors of the image to the mongoDB database entry.
 
 ![image of brush stroke legend](img/brush-legand.jpg)
+
+## Reflection
+
+* I think this project will really come to show its meaning when it is done over months to see what the differences are between the paintings. Right now the painting has nothing to compare with and it would be nice to see how it is different from the past months.
