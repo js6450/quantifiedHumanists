@@ -14,8 +14,8 @@ const config = require('./config');
 const Sentiment = require('sentiment');
 let sentiment = new Sentiment();
 
-// let result = sentiment.analyze('sad');
-// console.log(result);
+const color = require('splashy');
+const got = require('got');
 
 const app = express();
 
@@ -25,6 +25,7 @@ const Schema = mongoose.Schema;
 const InputSchema = new Schema({
    date: String,
    imageURL: String,
+   colors: String,
    word: String,
    wordScore: Number
 });
@@ -62,31 +63,43 @@ app.get('/api', challengeAuth, (req, res) =>{
     });
 });
 
-app.post('/api', challengeAuth, (req, res) =>{
-   // emotionalModel.create(req.body, (err, doc) => {
-   //    res.send(doc);
-   // });
+app.post('/image-upload', challengeAuth, function(req, res){
+
+   console.log(req.query.word);
 
     singleUpload(req, res, function(err, some){
-        //console.dir(req.body.word);
+
         if(err){
-            return res.status(422).send({errors: [{title: 'Image Upload Error', detail: err.message}]});
+            return res.status(422).send({error: [{title: 'Image Upload Error', detail: err.message}]});
         }
-        //
-        // let dataInput = {
-        //     'date': Date.now(),
-        //     'imageURL': req.file.location,
-        //     'word': req.body.word,
-        //     wordScore: sentiment.analyze(req.body.word).score
-        // };
-        //
-        // emotionalModel.create(dataInput, (err, doc) =>{
-        //     res.send(doc);
-        // });
 
-        // return res.json(dataInput);
+        let lastUploadURL = req.file.location;
 
-        return req.file.location
+        (async () => {
+            const url = lastUploadURL;
+            const { body } = await got(url, { encoding: null });
+            const palette = await color(body);
+
+            console.log(palette);
+
+            let inputWords = req.query.word.replace(/-/g, " ");
+
+            let dataInput = {
+                'date': Date.now(),
+                'imageURL': lastUploadURL,
+                'colors': JSON.stringify(palette),
+                'word': inputWords,
+                wordScore: sentiment.analyze(inputWords).score
+            };
+
+            emotionalModel.create(dataInput, (err, doc) =>{
+                //console.log("success");
+               res.send(doc);
+            });
+
+        })();
+
+       // return res.json(lastUploadURL);
     })
 });
 
