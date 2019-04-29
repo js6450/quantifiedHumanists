@@ -57,4 +57,6 @@ After seeing the paintings rendered, I decided to separate out the views to 1) l
 
 ## Reflection
 
-* I think this project will really come to show its meaning when it is done over months to see what the differences are between the paintings. Right now the painting has nothing to compare with and it would be nice to see how it is different from the past months.
+* I think this project will really come to show its meaning when it is done over months to see what the differences are between the paintings. Right now the painting has nothing to compare with (since it is done only for the month of April) and it would be nice to see how it is different from the past / future months.
+* The way that I've rendered the painting from the data from images and caption is very subjective. But I don't think this is a bad thing since this is my attempt of trying to draw a picture based on my memories and the feelings embodied in those memories captured by the photos and their short descriptions.
+* I think it would also be interesting to connect the Instagram API to use as data to render drawings, because it almost feels like the data that I am inputing via Shortcuts app is in the style of Instagram, where you upload an image file and write a short description about the photo. The painting visualization goes with my attempt of trying to deconstruct the higher level data to more abstract one to get a sense of the overall feeling of the data that I have been continuing since the beginning of the semester.
