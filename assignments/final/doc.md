@@ -10,4 +10,6 @@ Emotional Painting is a data visualization of photos that I've collected over mo
 
 ![image of emotional painting workflow](img/workflow.jpeg)
 
+![image of shortcuts app view](img/shortcuts-view.jpg)
+
 ![image of brush stroke legend](img/brush-legand.jpg)
