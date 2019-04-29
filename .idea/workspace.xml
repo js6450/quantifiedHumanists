@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0bbe87e-81bc-4494-9cc3-53dfde172ed1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assignments/final/code/brush01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0bbe87e-81bc-4494-9cc3-53dfde172ed1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,29 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/final/code/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sketch.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/final/code/sketch.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brush01.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignments/final/code/brush01.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+      <file leaf-file-name="doc.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignments/final/doc.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -83,375 +61,10 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/assignments/final/code/package.json" />
       <path value="$PROJECT_DIR$/assignments/week3/code/package.json" />
       <path value="$PROJECT_DIR$/sandbox/clmtrackr/package.json" />
       <path value="$PROJECT_DIR$/sandbox/data-selfie-app/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/accepts/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ansi-align/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ansi-styles/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/anymatch/node_modules/normalize-path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/anymatch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/arr-diff/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/arr-flatten/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/arr-union/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/array-flatten/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/array-unique/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/assign-symbols/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/async-each/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/async/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/atob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/base/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/base/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/base/node_modules/is-data-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/base/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/base/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/basic-auth/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/binary-extensions/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/bluebird/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/body-parser/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/boxen/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/braces/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/braces/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/bson/browser_build/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/bson/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/bytes/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/cache-base/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/camelcase/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/capture-stack-trace/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/chalk/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/chokidar/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ci-info/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/class-utils/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/class-utils/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/cli-boxes/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/collection-visit/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/color-convert/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/color-name/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/component-emitter/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/configstore/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/content-disposition/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/content-type/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/cookie-signature/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/cookie/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/copy-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/create-error-class/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/cross-spawn/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/crypto-random-string/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/decode-uri-component/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/deep-extend/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/define-property/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/dot-prop/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/dotenv/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/duplexer3/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ee-first/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/encodeurl/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/escape-html/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/escape-string-regexp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/etag/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/execa/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/expand-brackets/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/expand-brackets/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/express-basic-auth/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/express/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/node_modules/is-data-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/extglob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fill-range/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fill-range/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/finalhandler/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/for-in/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/forwarded/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fragment-cache/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fresh/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/abbrev/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/ansi-regex/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/aproba/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/are-we-there-yet/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/balanced-match/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/brace-expansion/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/chownr/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/code-point-at/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/concat-map/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/console-control-strings/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/core-util-is/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/deep-extend/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/delegates/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/detect-libc/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/fs-minipass/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/fs.realpath/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/gauge/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/glob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/has-unicode/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/ignore-walk/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/inflight/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/ini/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/minipass/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/minizlib/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/mkdirp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/needle/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/node-pre-gyp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/npm-bundled/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/npm-packlist/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/npmlog/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/number-is-nan/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/object-assign/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/once/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/os-homedir/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/os-tmpdir/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/osenv/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/process-nextick-args/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/rc/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/rc/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/rimraf/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/sax/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/set-blocking/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/signal-exit/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/strip-json-comments/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/tar/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/wide-align/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/wrappy/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/node_modules/yallist/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/fsevents/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/get-stream/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/get-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/glob-parent/node_modules/is-glob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/glob-parent/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/global-dirs/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/got/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/graceful-fs/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/has-flag/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/has-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/has-values/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/has-values/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/http/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ignore-by-default/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/import-lazy/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/imurmurhash/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ini/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ipaddr.js/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-binary-path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-buffer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-ci/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-data-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-descriptor/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-extendable/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-extglob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-fullwidth-code-point/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-glob/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-installed-globally/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-npm/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-number/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-number/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-obj/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-path-inside/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-plain-object/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-redirect/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-retry-allowed/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-stream/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/is-windows/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/isarray/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/isexe/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/isobject/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/kareem/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/latest-version/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/lowercase-keys/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/lru-cache/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/make-dir/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/map-cache/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/map-visit/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/media-typer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/memory-pager/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/merge-descriptors/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/methods/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/micromatch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mime/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/minimatch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/minimist/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mixin-deep/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mongodb-core/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mongodb/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mongoose-legacy-pluralize/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mongoose/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mongoose/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/morgan/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mpath/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mquery/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/mquery/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nan/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nan/tools/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nanomatch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/negotiator/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nodemon/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nodemon/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nodemon/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/nopt/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/normalize-path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/npm-run-path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/object-copy/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/object-copy/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/object-copy/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/object-visit/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/object.pick/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/on-finished/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/on-headers/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/p-finally/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/package-json/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/parseurl/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/pascalcase/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path-dirname/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path-is-absolute/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path-is-inside/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path-key/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path-to-regexp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/pify/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/posix-character-classes/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/prepend-http/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/process-nextick-args/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/process/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/proxy-addr/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/pseudomap/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/pstree.remy/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/raw-body/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/rc/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/readdirp/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/regex-not/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/regexp-clone/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/registry-auth-token/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/registry-url/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/remove-trailing-separator/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/repeat-element/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/repeat-string/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/require_optional/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/require_optional/test/nestedTest/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/resolve-from/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/resolve-url/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/ret/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/safe-regex/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/safer-buffer/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/saslprep/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/semver-diff/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/semver/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/send/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/serve-static/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/set-value/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/set-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/shebang-command/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/shebang-regex/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/signal-exit/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/sliced/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-node/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-node/node_modules/is-accessor-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-node/node_modules/is-data-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-node/node_modules/is-descriptor/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-node/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-util/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon-util/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/snapdragon/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/source-map-resolve/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/source-map-url/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/source-map/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/sparse-bitfield/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/split-string/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/static-extend/node_modules/define-property/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/static-extend/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/statuses/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/string-width/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/strip-ansi/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/strip-eof/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/strip-json-comments/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/supports-color/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/term-size/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/timed-out/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/to-object-path/node_modules/kind-of/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/to-object-path/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/to-regex-range/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/to-regex/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/touch/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/type-is/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/undefsafe/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/union-value/node_modules/extend-shallow/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/union-value/node_modules/set-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/union-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unique-string/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unset-value/node_modules/has-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unset-value/node_modules/has-values/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unset-value/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/unzip-response/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/upath/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/update-notifier/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/urix/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/url-parse-lax/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/use/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/util/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/utils-merge/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/vary/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/which/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/widest-line/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/write-file-atomic/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/xdg-basedir/package.json" />
-      <path value="$PROJECT_DIR$/sandbox/express-from-scratch/node_modules/yallist/package.json" />
       <path value="$PROJECT_DIR$/sandbox/express-from-scratch/package.json" />
       <path value="$PROJECT_DIR$/sandbox/feelings/package.json" />
       <path value="$PROJECT_DIR$/sandbox/ichat2json/package.json" />
@@ -488,21 +101,6 @@
               <item name="quantifiedHumanists" type="462c0819:PsiDirectoryNode" />
               <item name="assignments" type="462c0819:PsiDirectoryNode" />
               <item name="final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quantifiedHumanists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quantifiedHumanists" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quantifiedHumanists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quantifiedHumanists" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="final" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="quantifiedHumanists" type="b2602c69:ProjectViewProjectNode" />
@@ -553,24 +151,24 @@
       <workItem from="1552285497119" duration="261000" />
       <workItem from="1552285769301" duration="414000" />
       <workItem from="1554758364724" duration="6083000" />
+      <workItem from="1556521426703" duration="679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6758000" />
+    <option name="totallyTimeSpent" value="7437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="23" width="1620" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2401501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2401501" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32903227" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32903227" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -619,24 +217,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/final/code/sketch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/final/code/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/final/code/brush01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+    <entry file="file://$PROJECT_DIR$/assignments/final/code/sketch.js" />
+    <entry file="file://$PROJECT_DIR$/assignments/final/code/index.html" />
+    <entry file="file://$PROJECT_DIR$/assignments/final/code/brush01.js" />
+    <entry file="file://$PROJECT_DIR$/assignments/final/doc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
